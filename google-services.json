@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7357182482",
+    "firebase_url": "https://nanochat-9e1d4.firebaseio.com",
+    "project_id": "nanochat-9e1d4",
+    "storage_bucket": "nanochat-9e1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7357182482:android:419bf152d7044d03",
+        "android_client_info": {
+          "package_name": "com.anhvurz90.nanochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7357182482-eb39upa7vgeg48covmpodbakj279ik99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkgAOAgbZWoLBieI5YXXX1-ZhUaQIG_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

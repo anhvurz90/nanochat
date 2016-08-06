@@ -6,6 +6,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import com.firebase.client.Firebase;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -16,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Button sendBtn = (Button) findViewById(R.id.sendBtn);
         EditText messageTxt = (EditText) findViewById((R.id.messageTxt));
         ListView messageLst = (ListView) findViewById(R.id.messageLst);
+
+        Firebase.setAndroidContext(this);
     }
 }
